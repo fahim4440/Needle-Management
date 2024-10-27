@@ -1,0 +1,406 @@
+{
+  "floorName": "EFL_Ext",
+  "totalMachine": 40,
+  "machines": [
+    {
+      "machineId": "EFL_Ext1",
+      "brand": "Mayer & Cie",
+      "origin": "Germany",
+      "machineType": "Single Jersey",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 40,
+      "feederNo": 96
+    },
+    {
+      "machineId": "EFL_Ext2",
+      "brand": "Mayer & Cie",
+      "machineType": "Single Jersey",
+      "origin": "Germany",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 36,
+      "feederNo": 96
+    },
+    {
+      "machineId": "EFL_Ext3",
+      "brand": "Mayer & Cie",
+      "machineType": "Single Jersey",
+      "origin": "Germany",
+      "manufacturingYear": 2020,
+      "dia": 34,
+      "gauge": 36,
+      "feederNo": 108
+    },
+    {
+      "machineId": "EFL_Ext4",
+      "brand": "Mayer & Cie",
+      "machineType": "Single Jersey",
+      "origin": "Germany",
+      "manufacturingYear": 2019,
+      "dia": 34,
+      "gauge": 36,
+      "feederNo": 108
+    },
+    {
+      "machineId": "EFL_Ext5",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2021,
+      "dia": 34,
+      "gauge": 36,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext6",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2021,
+      "dia": 34,
+      "gauge": 36,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext7",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 34,
+      "gauge": 36,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext8",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2019,
+      "dia": 34,
+      "gauge": 36,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext9",
+      "brand": "Santoni",
+      "machineType": "Single Jersey",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 24,
+      "feederNo": 90
+    },
+    {
+      "machineId": "EFL_Ext10",
+      "brand": "Santoni",
+      "machineType": "Single Jersey",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 24,
+      "feederNo": 90
+    },
+    {
+      "machineId": "EFL_Ext11",
+      "brand": "PaiLung",
+      "machineType": "Double Jersey",
+      "origin": "Taiwan",
+      "manufacturingYear": 2019,
+      "dia": 36,
+      "gauge": 18,
+      "feederNo": 72
+    },
+    {
+      "machineId": "EFL_Ext12",
+      "brand": "PaiLung",
+      "machineType": "Double Jersey",
+      "origin": "Taiwan",
+      "manufacturingYear": 2019,
+      "dia": 44,
+      "gauge": 18,
+      "feederNo": 88
+    },
+    {
+      "machineId": "EFL_Ext13",
+      "brand": "Santoni",
+      "machineType": "Single Jersey",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 24,
+      "feederNo": 90
+    },
+    {
+      "machineId": "EFL_Ext14",
+      "brand": "Santoni",
+      "machineType": "Single Jersey",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 24,
+      "feederNo": 90
+    },
+    {
+      "machineId": "EFL_Ext15",
+      "brand": "PaiLung",
+      "machineType": "Double Jersey",
+      "origin": "Taiwan",
+      "manufacturingYear": 2019,
+      "dia": 36,
+      "gauge": 18,
+      "feederNo": 72
+    },
+    {
+      "machineId": "EFL_Ext16",
+      "brand": "PaiLung",
+      "machineType": "Double Jersey",
+      "origin": "Taiwan",
+      "manufacturingYear": 2019,
+      "dia": 44,
+      "gauge": 18,
+      "feederNo": 88
+    },
+    {
+      "machineId": "EFL_Ext17",
+      "brand": "Fukuhara",
+      "machineType": "Double Jersey",
+      "origin": "Japan",
+      "manufacturingYear": 2020,
+      "dia": 32,
+      "gauge": 22,
+      "feederNo": 66
+    },
+    {
+      "machineId": "EFL_Ext18",
+      "brand": "Fukuhara",
+      "machineType": "Double Jersey",
+      "origin": "Japan",
+      "manufacturingYear": 2020,
+      "dia": 32,
+      "gauge": 22,
+      "feederNo": 66
+    },
+    {
+      "machineId": "EFL_Ext19",
+      "brand": "Fukuhara",
+      "machineType": "Double Jersey",
+      "origin": "Japan",
+      "manufacturingYear": 2020,
+      "dia": 36,
+      "gauge": 18,
+      "feederNo": 74
+    },
+    {
+      "machineId": "EFL_Ext20",
+      "brand": "Fukuhara",
+      "machineType": "Double Jersey",
+      "origin": "Japan",
+      "manufacturingYear": 2020,
+      "dia": 36,
+      "gauge": 18,
+      "feederNo": 74
+    },
+    {
+      "machineId": "EFL_Ext21",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 34,
+      "gauge": 24,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext22",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 34,
+      "gauge": 28,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext23",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2019,
+      "dia": 34,
+      "gauge": 28,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext24",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2019,
+      "dia": 34,
+      "gauge": 28,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext25",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 34,
+      "gauge": 28,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext26",
+      "brand": "Santoni",
+      "machineType": "Double Jersey",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 34,
+      "gauge": 28,
+      "feederNo": 94
+    },
+    {
+      "machineId": "EFL_Ext29",
+      "brand": "Lisky",
+      "machineType": "Single Jersey",
+      "origin": "Taiwan",
+      "manufacturingYear": 2019,
+      "dia": 34,
+      "gauge": 12,
+      "feederNo": 54
+    },
+    {
+      "machineId": "EFL_Ext30",
+      "brand": "Lisky",
+      "machineType": "Single Jersey",
+      "origin": "Taiwan",
+      "manufacturingYear": 2019,
+      "dia": 34,
+      "gauge": 12,
+      "feederNo": 54
+    },
+    {
+      "machineId": "EFL_Ext31",
+      "brand": "Lisky",
+      "machineType": "Fleece",
+      "origin": "Taiwan",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 20,
+      "feederNo": 96
+    },
+    {
+      "machineId": "EFL_Ext32",
+      "brand": "Lisky",
+      "machineType": "Fleece",
+      "origin": "Taiwan",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 20,
+      "feederNo": 96
+    },
+    {
+      "machineId": "EFL_Ext33",
+      "brand": "Rongxing",
+      "machineType": "Fleece",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 20,
+      "feederNo": 90
+    },
+    {
+      "machineId": "EFL_Ext34",
+      "brand": "Rongxing",
+      "machineType": "Fleece",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 20,
+      "feederNo": 90
+    },
+    {
+      "machineId": "EFL_Ext35",
+      "brand": "Rongxing",
+      "machineType": "Fleece",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 20,
+      "feederNo": 90
+    },
+    {
+      "machineId": "EFL_Ext36",
+      "brand": "Rongxing",
+      "machineType": "Fleece",
+      "origin": "China",
+      "manufacturingYear": 2020,
+      "dia": 30,
+      "gauge": 20,
+      "feederNo": 90
+    },
+    {
+      "machineId": "EFL_Ext37",
+      "brand": "Mayer & Cie",
+      "machineType": "Double Jersey Jacquard",
+      "origin": "Germany",
+      "manufacturingYear": 2022,
+      "dia": 30,
+      "gauge": 24,
+      "feederNo": 48
+    },
+    {
+      "machineId": "EFL_Ext38",
+      "brand": "Mayer & Cie",
+      "machineType": "Double Jersey Jacquard",
+      "origin": "Germany",
+      "manufacturingYear": 2022,
+      "dia": 30,
+      "gauge": 24,
+      "feederNo": 48
+    },
+    {
+      "machineId": "EFL_Ext39",
+      "brand": "Fukuhara",
+      "machineType": "Double Jersey Autostripe",
+      "origin": "Japan",
+      "manufacturingYear": 2024,
+      "dia": 34,
+      "gauge": 18,
+      "feederNo": 48
+    },
+    {
+      "machineId": "EFL_Ext40",
+      "brand": "Mayer & Cie",
+      "machineType": "Double Jersey Autostripe",
+      "origin": "Japan",
+      "manufacturingYear": 2024,
+      "dia": 34,
+      "gauge": 24,
+      "feederNo": 48
+    },
+    {
+      "machineId": "EFL_Ext41",
+      "brand": "Mayer & Cie",
+      "machineType": "Double Jersey Jacquard",
+      "origin": "Germany",
+      "manufacturingYear": 2022,
+      "dia": 30,
+      "gauge": 24,
+      "feederNo": 48
+    },
+    {
+      "machineId": "EFL_Ext42",
+      "brand": "Mayer & Cie",
+      "machineType": "Double Jersey Jacquard",
+      "origin": "Germany",
+      "manufacturingYear": 2022,
+      "dia": 30,
+      "gauge": 24,
+      "feederNo": 48
+    }
+  ]
+}
